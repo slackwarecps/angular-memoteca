@@ -1,22 +1,10 @@
 {
   "pensamentos": [
     {
-      "conteudo": "aaaaa",
-      "autoria": "a",
-      "modelo": "modelo3",
-      "id": 7
-    },
-    {
-      "conteudo": "bbbbb",
-      "autoria": "b",
-      "modelo": "modelo3",
-      "id": 8
-    },
-    {
-      "conteudo": "cccc cccc cccc",
-      "autoria": "c",
-      "modelo": "modelo3",
-      "id": 9
+      "conteudo": "Cachorro mordido por cobra tem medo de linguiça",
+      "autoria": "Aristóteles",
+      "modelo": "modelo2",
+      "id": 10
     }
   ]
 }
